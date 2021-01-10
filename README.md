@@ -1,3 +1,3 @@
 # GRIP-The-Sparks-Foundation-Internship
 
-Graduate Rotational Internship Program focusing on getting an in-depth understanding of data science concepts. Used concepts such as Data Exploration, Manipulation, Visualisation  and Machine Learning algorithms to solve different tasks.    
+It consists of six internship project as part of the Graduate Rotational Internship Program. The program focuses on getting an in-depth understanding of data science concepts to solve different tasks.    
