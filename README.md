@@ -10,4 +10,4 @@ Project Names :
 5. Exploratory Data Analysis - Indian Premier League
 6. Prediction Using Decision Tree Algorithm
 7. Stock Market Prediction and Textual Analysis
-8. Data Analysis - Covid-19
+
